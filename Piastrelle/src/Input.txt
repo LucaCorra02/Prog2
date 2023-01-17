@@ -1,0 +1,14 @@
+Q 2 3
+P 42 0
+R 4 2 5
+P 65 2
+P 1 1 2 3
+  Scanner s = new Scanner(System.in);
+        HashMap<Integer,Componente> input = new HashMap<>();
+        int cont =0;
+        while (s.hasNextLine()){
+            Componente c = creaComponente(s.nextLine(),input);
+            input.put(cont,c);
+            cont++;
+        }
+        System.out.println("Hello world!");
