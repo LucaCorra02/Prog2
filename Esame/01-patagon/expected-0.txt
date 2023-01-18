@@ -1,0 +1,21 @@
+|                   | Antares[51] |             |              |
+| Mowgli[5]         | Sun[9]      |             | Madrid[3]    |
+| Simba[9]          | Altair[12]  |             | Rome[3]      |
+| LiloPelekai[5]    | Sirius[42]  | Calcium[40] | Barcelona[1] |
+| Baloo[21]         | Orion[24]   | Iron[55]    | Dubai[3]     |
+| BuzzLightyear[12] | Pollux[11]  | Argon[39]   | Tokyo[14]    |
+| Woody[6]          | Castor[33]  | Hydrogen[1] | Paris[2]     |
+| MickeyMouse[4]    | Polaris[51] | Neon[10]    | London[9]    |
++-------------------+-------------+-------------+--------------+
+| 0                 | 1           | 2           | 3            |
+3
+|                   |             | Pollux[11]  |              |
+| Mowgli[5]         |             | Castor[33]  | Madrid[3]    |
+| Simba[9]          |             | Polaris[51] | Rome[3]      |
+| LiloPelekai[5]    | Antares[51] | Calcium[40] | Barcelona[1] |
+| Baloo[21]         | Sun[9]      | Iron[55]    | Dubai[3]     |
+| BuzzLightyear[12] | Altair[12]  | Argon[39]   | Tokyo[14]    |
+| Woody[6]          | Sirius[42]  | Hydrogen[1] | Paris[2]     |
+| MickeyMouse[4]    | Orion[24]   | Neon[10]    | London[9]    |
++-------------------+-------------+-------------+--------------+
+| 0                 | 1           | 2           | 3            |
